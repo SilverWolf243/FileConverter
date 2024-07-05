@@ -20,6 +20,9 @@
 ## Video Demonstration
 
 여러 종류의 이미지 확장자 파일(webp, jfif, png, jpeg, jpg)을 모두 png로 변환하는 시연 영상을 확인하세요.
+<p align="center">
+  <img src="https://github.com/SilverWolf243/FileConverter/assets/174812857/90108061-8860-4418-a275-acbe178d59ad">
+</p>
 
 ## Download
 
